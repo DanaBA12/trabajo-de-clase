@@ -13,4 +13,10 @@ h1{
 img{
     width: 50%;
     height: auto;
+    text-align: center;
 }
+header{
+    background-color: rgb(133, 165, 174);
+
+}
+
